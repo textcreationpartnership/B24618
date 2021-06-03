@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for Mr. William Erskine brother to my Lord Cardross, against the Earl of Tweddale Lord High Chancellor.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24618</idno><idno type="EEBO-CITATION">99885858</idno>
+  <idno type="VID">204126</idno>
+  <idno type="EEBO-PROQUEST">2240886893</idno>
+  
+            <idno type="STC">Wing I164G</idno>
+            <idno type="STC">Interim Tract Supplement Guide 714.i.8[43]</idno>
+            <idno type="STC">ESTC R225117</idno>
+            <idno type="PROQUEST">ocm99885858</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885858e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204126)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F1:2[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for Mr. William Erskine brother to my Lord Cardross, against the Earl of Tweddale Lord High Chancellor.</title>
+               </titleStmt>
+               <extent>4+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Erskine, William, d. 1700 --  Early works to 1800.</term>
+               <term type="topical_term">Whaling --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="affidavit">
+            <pb facs="tcp:204126:1"/>
+            <pb n="1" facs="tcp:204126:1"/>
+            <head>INFORMATION, <hi>For Mr.</hi> William Erskine <hi>Brother to my Lord</hi> Cardross, <hi>Against The Earl of</hi> Tweddale <hi>Lord High Chancellor.</hi>
+            </head>
+            <p>THere having in the beginning of <hi>February</hi> 1689, a Whale come a Shore at the <hi>Lime-kilns,</hi> within the Regality of <hi>Dumfermling,</hi> the said Mr. <hi>William</hi> as having Commission from the Marquiss of <hi>Athole</hi> Lord Vice-Admiral of this Kingdom, did cause secure that great Fish, and put her to a publick and judicial Roup, after publick Intimation in the usual Form, and several Merchants in <hi>Edinburgh</hi> and others, having come and offered at the Roup, <hi>John Fotheringham</hi> in <hi>Culross,</hi> did at last offer 500 Merks for the Fish, and his offer being the greatest, the Fish was judicially sold and rouped to him, for the said Sum of 500 Merks.</p>
+            <p>The Earl of <hi>Tweddale</hi> pretending Right to the Office of Admirality, and Pro<g ref="char:EOLhyphen"/>fits thereof within the Bounds of the Regality of <hi>Dumfermling,</hi> by vertue of ex<g ref="char:EOLhyphen"/>pired Apprysings against the Deceast Earl of <hi>Dumfermling,</hi> and publick Infeft<g ref="char:EOLhyphen"/>ments following thereupon, did about two days after the said judicial Roup, made by Mr. <hi>William Erskine,</hi> send over Mr. <hi>John Buchannan</hi> with a special Commissi<g ref="char:EOLhyphen"/>on, to make a new Roup of the said Fish, and accordingly she was rouped and sold by him to <hi>James Campbel</hi> for 650 Merks; but notwithstanding of the said second Roup, Mr. <hi>William Erskine</hi> and <hi>George Fotheringham</hi> to whom the Fish was Disponed by Mr. <hi>William Erskine</hi> retained the Possession, and the Earl of <hi>Twed<g ref="char:EOLhyphen"/>dale</hi> and Mr. <hi>Campbel</hi> having pursued Mr. <hi>William Ersktne</hi> before the Privy Coun<g ref="char:EOLhyphen"/>cil as guilty of a Riot, in retaining the Fish, the Lords of Privy Council after ad<g ref="char:EOLhyphen"/>vising of the Probation taken thereanent, did assoilzie from the Riot, and did re<g ref="char:EOLhyphen"/>mit the Point of Right to be summarly discussed before the Lords of Session.</p>
+            <p>The Process being called <hi>in presentia,</hi> the Earl of <hi>Tweddale</hi> produced a Charter under the great Seal in <hi>anno</hi> 1637, granted by King <hi>Charles</hi> the first, to the Earl of <hi>Dumfermling</hi> of the Erected Lordship of <hi>Dumfermling,</hi> with the Office of Ad<g ref="char:EOLhyphen"/>mirality within the Bounds thereof, whole Profits and Emoluments belonging to the said Office, with his own Infeftment under the great Seal, upon an expired Comprysing against the Earl of <hi>Dumfermling,</hi> and a Summons of Declarator; and craved, that his Right might be declared conform thereunto, and that he might be preferred to the F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th contraverted; as having come in within the Bounds con<g ref="char:EOLhyphen"/>tained in his saids Infeftments, because albeit the Dukes of <hi>Lennox</hi> had formerly the Right of Admirality over all the Kingdom, yet they were Denuded of the Right thereof in favours of Queen <hi>Anna,</hi> to whom King <hi>Charles</hi> the first was ser<g ref="char:EOLhyphen"/>ved Heir, as to the Office and Perquisits thereof, within the Bounds of the Re<g ref="char:EOLhyphen"/>gality of <hi>Dumfermling,</hi> and that King <hi>Charles</hi> the first being by his Charter in <hi>anno</hi> 1637, Denuded of the Right thereof in favours of the Earl of <hi>Dumfermling,</hi> the Earl of <hi>Tweddale</hi> upon his expired Comprysing, had Right to the said Of<g ref="char:EOLhyphen"/>fice of Admirality and Perquisits thereof.</p>
+            <pb n="2" facs="tcp:204126:2"/>
+            <p>It was answered for Mr. <hi>William Erskine,</hi> that the Earl of <hi>Tweddale</hi> could never be heard, to crave preference upon the account of the Charter, granted by King <hi>Charles</hi> the first to the Earl of <hi>Dumfermling,</hi> nor could his Declarator be sustain<g ref="char:EOLhyphen"/>ed, because King <hi>Charles</hi> the first who granted the said Charter, and his Prede<g ref="char:EOLhyphen"/>cessors, were long before the date thereof, Denuded in favours of the Dukes of <hi>Lennox,</hi> who for many Generations by past are known by their antient Rights and Infeftments, to have possessed and enjoyed the Office, Profits, and Emolu<g ref="char:EOLhyphen"/>ments of the Admirality over all the Kingdom. 2. It is clear by the Extract of a Letter out of the Registers of Exchequer, that King <hi>Charles</hi> the first had Denu<g ref="char:EOLhyphen"/>ded himself of the Right of Admirality over all the Kingdom, in favours of the Dukes of <hi>Lennox,</hi> before the date of that Letter which was in <hi>anno</hi> 1628. 3. The said King <hi>Charles</hi> the first, did in <hi>anno</hi> 1627 grant a Commission to the Earl of <hi>Linlithgow,</hi> to exerce the Office of Admirality, during the Minority of the Duke of <hi>Lennox,</hi> and to be Comptable to the Duke, as sole High Admiral over all the Kingdom, for the Perquisits, Profits, and Emoluments of the same. 4. In the Parliament 1633, where King <hi>Charles</hi> the first was personally present, the Duke of <hi>Lennox,</hi> and his Heirs Right to be High Admiral over all the Kingdom, without any Exception or Reservation, is in most ample and comprehensive Terms affirmed and declared, by King <hi>Charles</hi> the first himself, and the three Estates, and all prior Grants and Infeftments past and expede before that time, which might any ways derogat from, or prejudge the Duke of <hi>Lennox</hi> absolute Right of Admirali<g ref="char:EOLhyphen"/>ty, are expresly rescinded and annulled. 5. In the same Parliament, and before the date of that Act, there is likwise a Commission granted to several Noblemen and Gentlemen, to take special Tryal and Enquiry, anent any Incroachments, made upon the Duke of <hi>Lennox</hi> his said Right and Office of Admirality, &amp; to re<g ref="char:EOLhyphen"/>port the same either to the Parliament or Privy Council, to the effect, the Duke of <hi>Lennox</hi> might be reponed there-against, and they rescinded and annulled. 6. The Charter granted to the Earl of <hi>Dumfermling</hi> in <hi>anno</hi> 1637, was unwarrantably expede, not being revised or approven of, by the Earl of <hi>Linlithgow,</hi> contrait to the Kings express Warrant and Command, contained in his Letter, dated in <hi>an<g ref="char:EOLhyphen"/>no</hi> 1628, Registrat in Exchequer, and the same was <hi>à non habente potestatem,</hi> the King being formerly Denuded as said is. 7. Conform to these Rights and Infeft<g ref="char:EOLhyphen"/>ments, the Dukes of <hi>Lennox</hi> and their Deputs, have been in Immemorial Posses<g ref="char:EOLhyphen"/>sion of that Office, and uplifting the Profits and Perquisits thereto belonging, over all the Kingdom past all Memory.</p>
+            <p>It was Replyed for the Earl of <hi>Tweddale,</hi> that his Right ought to be declared, conform to his own and the Deceast Earl of <hi>Dumfermling</hi> their Charters, under the great Seal above narrated, notwithstanding of the grounds above-represented for Mr. <hi>William Erskine,</hi> because the Duke of <hi>Lennox</hi> being Denuded in favours of Queen <hi>Anna,</hi> and King <hi>Charles</hi> the first having Succeeded to her <hi>Jure priva<g ref="char:EOLhyphen"/>to,</hi> the Charter granted by him to the Earls of <hi>Dumfrmling</hi> in <hi>anno</hi> 1637, con<g ref="char:EOLhyphen"/>taining a <hi>Novo Damus</hi> in ample Form, did Denude the King of the Right and Office of Admirality, within he Bounds of the Regality of <hi>Dumfermling,</hi> in fa<g ref="char:EOLhyphen"/>vours of the said Earl, and gave him Right to the Disposition granted by the Duke of <hi>Lennox,</hi> in favours of Queen <hi>Anna.</hi> 2. No respect can be had to the Extract of the Kings Letter out of the Exchequers Books in <hi>anno</hi> 1628, because the said Letter makes mention of, and relates to a Signature which is not produced, <hi>&amp; non constat,</hi> if ever any such Signature was ever granted or expede. 3. The Act of Parliament in <hi>anno</hi> 1633 alledged upon, is allenarly a private Act, and cannot prejudge the Earl of <hi>Tweddales</hi> Right, there being nothing in that Act <hi>deductum</hi> or
+<pb n="3" facs="tcp:204126:2"/>
+               <hi>tractatum</hi> anent the Office of Admirality, within the Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds of the Regality of <hi>Dumfermling,</hi> and the same is only a Ratification of such Rights, as the Dukes of <hi>Lennox</hi> had then in their persons at the time; and albeit the said Act had made express mention of the Office of Admirality, within the Bounds of the Regality of <hi>Dumfermling,</hi> yet the same falls under the Act <hi>Salvo jure</hi> past in that Parlia<g ref="char:EOLhyphen"/>ment, and repeated the Decision betwixt the Duke of <hi>Lauderdale</hi> and the Vis<g ref="char:EOLhyphen"/>count of <hi>Oxenfoord,</hi> and the said Act could never annul the Right of the Admirality within that Bounds, competent to the King <hi>Jure privato;</hi> and albeit the said Act be Statutory, annulling all Rights granted by King or Parliament, in prejudice of the Dukes, yet it could never be understood to annul Rights granted by the Duke himself. 4. The Charter granted to the Earl of <hi>Dumfermling</hi> in <hi>anno</hi> 1637, containing a <hi>Novo Damus</hi> in ample form as said is, was a Countermand and an ex<g ref="char:EOLhyphen"/>press Revocation of the Letter, written by the King to the Exchequer in <hi>anno</hi> 1628. 5. The Earl of <hi>Tweddale</hi> and his Deputs have been in Possession of that Office, by holding of Courts of Admirality, and Adjudging Ships as Prize, <hi>&amp;c.</hi>
+            </p>
+            <p>It was Duplyed for Mr. <hi>William Erskine,</hi> that the former Grounds of Prefe<g ref="char:EOLhyphen"/>rence alledged for him were repeated and oponned, and which stood relevant, notwithstanding of the Replyes. Because 1. by the Commission granted to the Earl of <hi>Linlithgow</hi> in <hi>anno</hi> 1627, and the Kings Letter in <hi>anno</hi> 1628, and the Commission granted to the Noblemen and Gentlemen by the Parliamen in <hi>anno</hi> 1633, for enquiring into the Incroachments made upon the Office of Admirality, and the foresaid Act made in the same Parliament following thereupon, the deli<g ref="char:EOLhyphen"/>berate and forward Resolution, <hi>&amp; enixa voluntas</hi> of King <hi>Charles</hi> the First, to have the Office of High Admiral, with the Priviledges and Emoluments thereto be<g ref="char:EOLhyphen"/>longing, Heretably setled and secured in the Family of <hi>Lennox,</hi> from which his Majesty was descended, in the most honourable and ample manner, is clear and evident; and that Office being one of the first and most honourable Offices in the Kingdom, it is of its own nature inseparable and indivisible; and it is against the honour and reputation of the King and Kingdom, that it should be sparpled and divided. And albeit the Lord High Admiral may constitute Deputs for several Precincts, yet it was never heard of in any Nation, that such a high Office, was, or could be sparpled, or divided, so as any privat person could exerse and enjoy the same as a Soveraign Right, independent of the High Admiral; and the Right which the Earl of <hi>Tweddale</hi> pretends to, is als absolute and independent as the Duke of <hi>Lennox</hi> own Right; and if such a preparative should be sustained, the honou<g ref="char:EOLhyphen"/>rable Offices of High Admiral, Constable, Marischal, Great Steward, and High Chamberlain of the Kingdom, might in process of time by being so sparpled and divided, become absolutely extinct, or otherways rendred contemptible and in<g ref="char:EOLhyphen"/>significant. 2. The Kings Letter being only in relation to the Admirality, to which the King had no pretence <hi>jure coronae,</hi> but <hi>jure privato,</hi> as Heir to his Mo<g ref="char:EOLhyphen"/>ther Queen <hi>Anna,</hi> his Majesties assertion in that Letter, that he had formerly di<g ref="char:EOLhyphen"/>sponned the Office of Admirality over all the Kingdom to the Duke of <hi>Lennox,</hi> was equivalent to a formal Disposition extended, and was a sufficient Obligation against the King <hi>tanquam privatus,</hi> whereupon the Duke of <hi>Lennox</hi> might have forced him to dispone. 3. In the foresaids two Commissions under the Kings Hand, his Majesty declares, acknowledges, and asserts the Duke of <hi>Lennox</hi> Right of Admirality over all the K ngdom, without exception; and which <hi>per se,</hi> were sufficient to debar the King <hi>jure privato</hi> from quarrelling the Duke of <hi>Lennox</hi> Right to the same in all time thereafter. 4. It is an absolute mistake that the Act of Parliament 1633, founded upon, is only a Ratification of the Duke of
+<pb n="4" facs="tcp:204126:3"/>
+               <hi>Lennox</hi> former Rights, because the said Act is not only in the terms of a positive Law, bearing these words, <hi>Statutes and Ordains;</hi> by which the Duke of <hi>Len<g ref="char:EOLhyphen"/>nox</hi> Right is by the King himself, personally present, and whole Estates, acknow<g ref="char:EOLhyphen"/>ledged, asserted, and affirmed as High Admiral over all the Kingdom, without exception; but the whole tenor thereof demonst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ats to conviction, that the design thereof was to have the Duke of <hi>Lennox</hi> and his Heirs, restated, and reinsta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led in the Office of Admirality over all the Kingdom, without exception of any part or place, in the most honourable and most ample and comprehensive manner that could be devised; all and whatsomever Rights, Grants, or Confirmations which might any ways prejudge or incroach upon the said Office, being thereby expresly Rescinded and Annulled. And as it is evident from what is formerly represen<g ref="char:EOLhyphen"/>ted, that King <hi>Charles</hi> the First was fully Denuded of all Right or Pretence he had to that Office <hi>jure privato,</hi> in favours of the Duke of <hi>Lennox,</hi> so his Maje<g ref="char:EOLhyphen"/>sty being present, and consenting to that <hi>Act</hi> of Parliament, was a new passing from, and renuncing of all pretence of privat Right competent to his Majesties in the Dukes favours. 5. The <hi>Act Salvo jure</hi> in the Parliament 1633, is likewise oponned, wherein there is only a <hi>Salvo,</hi> and Reservation in favours of the King and his Successors, in relation to any prejudice they might sustain anent several particulars contained in that <hi>Act.</hi> and under none of which the Kings Pretences to the Admirality <hi>jure privato,</hi> can by any Stretch whatsomever be understood to be comprehended; and the Earl of <hi>Dumfermling</hi>'s Right being dated four years after the <hi>Act</hi> of Parliament, made in favours of the Duke of <hi>Lennox,</hi> in the year 1633, the Earl of <hi>Tweddale</hi> hath no interest to found upon the <hi>Act Salvo,</hi> past in that Parliament, 6. By the 16th Act of the Parliament 1681, the High Admiral is expresly appointed to be the Kings Lieutenant, and Justice General<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the Seas, and in all Ports, Harbours, or Creiks of the same, and upon fresh Waters, and Navigable Rivers below the first Bridge; and appointed to have the sole Pri<g ref="char:EOLhyphen"/>viledge and Jurisdiction in all Maritime and Seafaring Causes, als well▪ Civil as Criminal, and over all persons within the Realm; Discharging all other persons whatsomever to meddle with, or pretend Right to the same: And which last <hi>Act per se,</hi> is a Renovation of the High Admirals Right, and which being con<g ref="char:EOLhyphen"/>joyned with the former Rights and Acts of Parliament, in favours of the Dukes of <hi>Lennox,</hi> as High Admiral, doth absolutly evacuat all shadow of Right and Pre<g ref="char:EOLhyphen"/>tence that the Earl of <hi>Tweddale</hi> as Compryser of the Earl of <hi>Dumfermling</hi>'s Estate, can pretend to the Office of Admirality, within the Bounds of the Regality of <hi>Dumfermling,</hi> or any where else, within the Kingdom. 7. The Earl of <hi>Dum<g ref="char:EOLhyphen"/>fermling</hi>'s Charter in <hi>anno</hi> 1637, being only a Charter passing in course, under the Kings Hand, as King, can never be interpret a Countermand or Revocation of the Kings Letter written to the Exehquer in <hi>anno</hi> 1628, in favours of the Duke of <hi>Lennox,</hi> unless the said Letter had been mentioned in the Signature, but must still be understood to have been impetrat <hi>per obreptionem,</hi> and unwarrantably expede, contrair to the Kings express Command; and if the King had not been Denuded of the Right he had <hi>jure privato,</hi> as Heir to his Mother, before that time, as he truly was Denuded thereof, in favours of the Duke of <hi>Lennox,</hi> many years before the year 1637, the said Signature mentioning nothing of the Kings privat Right, but only passing in course, could never have been extended to the Kings privat Right: And albeit that Charter bears a Confirmation of the Dispo<g ref="char:EOLhyphen"/>sition, alledged made by the Duke of <hi>Lennox,</hi> in favours of Queen <hi>Anna,</hi> yet the said Disposition is not produced, nor was it ever Ratified or Confirmed in Parlia<g ref="char:EOLhyphen"/>ment before King <hi>Charles</hi> the First became absolutly Denuded in favours of the</p>
+            <gap reason="illegible: missing" extent="1+ letters">
+               <desc>•…</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
